@@ -1,0 +1,28 @@
+body {
+    margin: 3em 0 0 0;
+}
+
+a {
+    cursor: pointer;
+}
+
+.row {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.releases .release .details div {
+    margin: 5px 0;
+}
+
+.releases .release .details .description {
+    padding: 3px 5px;
+    background-color: #EEE;
+    border: 1px solid #CCC;
+    margin: 0 4px;
+    display: inline-block;
+}
+
+.music-collection-graph {
+    padding: 20px 20px 20px 0;
+}

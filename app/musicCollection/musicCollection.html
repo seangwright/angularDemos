@@ -1,0 +1,44 @@
+﻿<div data-ng-controller="musicCollectionController as vm">
+    <h2>{{vm.title}}</h2>
+    <div>
+        <label>Filter</label>
+        <input data-ng-model="musicCollectionFilter" />
+    </div>
+    <div class="music-collection-graph" data-ng-if="vm.filteredCollection != null">
+        <h4>Number of releases / Year</h4>
+        <div data-music-collection-graph
+             data="vm.collectionYears"></div>
+    </div>
+    <table class="releases table table-bordered table-striped table-condensed" data-ng-if="vm.filteredCollection != null">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Title</th>
+                <th>Year</th>
+                <th>Format</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="release" data-ng-repeat="release in vm.filteredCollection">
+                <td>
+                    <a data-ng-click="vm.redirectViaJSONLink(release.basic_information.artists[0].resource_url)">{{release.basic_information.artists[0].name}}</a>
+                </td>
+                <td>
+                    <a data-ng-click="vm.redirectViaJSONLink(release.basic_information.resource_url)">{{release.basic_information.title}}</a>
+                </td>
+                <td>{{release.basic_information.year}}</td>
+                <td class="details">
+                    <div>
+                        <span class="description">{{release.basic_information.formats[0].name}}</span>
+                        <span class="description" data-ng-repeat="formatDescription in release.basic_information.formats[0].descriptions">
+                            {{formatDescription}}
+                        </span>
+                    </div>
+                    <div>
+                        <span data-ng-class="{description: ((release.basic_information.formats[0].text + '').length > 0)}">{{release.basic_information.formats[0].text}}</span>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
