@@ -9,7 +9,7 @@
     function musicCollectionController(musicCollectionService, $window, $scope) {
         var vm = this;
         vm.title = 'Music Collection';
-        vm.getCollection = getCollection;
+        vm.getCollection = loadCollection;
         vm.collection = null;
         vm.filteredCollection = null;
         vm.collectionYears = null;
@@ -19,24 +19,19 @@
         activate();
 
         function activate() {
-            return getCollection();
+            loadCollection();
         }
 
-        function getCollection() {
-            return musicCollectionService.getAll().then(function (data) {
+        function loadCollection() {
+            musicCollectionService.getAll().then(function (data) {
                 vm.collection = data.releases;
                 vm.filteredCollection = vm.collection;
-
-                $scope.$watch('vm.collection | filter:musicCollectionFilter', function (newVal) {
-                    vm.filteredCollection = newVal;                   
-                }, true);
-
-                $scope.$watch('vm.collection | filter:musicCollectionFilter', function (newVal) {
-                    vm.collectionYears = getYearsFromCollection(newVal);
-                }, true);
-
-                return vm.collection;
             });
+
+            $scope.$watchCollection('vm.collection | textFilter:searchText', function (newVal) {
+                vm.filteredCollection = newVal;
+                vm.collectionYears = getYearsFromCollection(vm.filteredCollection);
+            }, true);
         }
 
         function redirectViaJSONLink(url) {
@@ -60,4 +55,24 @@
             return years;
         }
     }
+
+    /*
+     * Filter for comparing name of artist in a collection of releases to given text value
+     */
+    angular.module('app')
+        .filter('textFilter', function () {
+            return function (items, text) {
+                if (!text || text === '') return items;
+
+                var filteredItems = [];
+                text = text.toLowerCase();
+
+                angular.forEach(items, function (item) {
+                    var name = item.basic_information.artists[0].name.toLowerCase();
+                    if (name.indexOf(text) > -1) filteredItems.push(item);
+                });
+
+                return filteredItems;
+            };
+        });
 })();

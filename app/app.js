@@ -20,12 +20,10 @@
                     templateUrl: 'app/musicCollection/musicCollection.html',
                     title: 'musicCollection'
                 })
-            .when('/people',
-                { templateUrl: 'app/people/people.html', title: 'people' })
-            .when('/tips',
-                { templateUrl: 'app/tips/tips.html', title: 'tips' })
             .when('/musicCollection',
                 { templateUrl: 'app/musicCollection/musicCollection.html', title: 'musicCollection' })
+            .when('/submissionForm',
+                { templateUrl: 'app/submissionForm/submissionForm.html', title: 'submissionForm' })
             .otherwise({ redirectTo: '/' });
     }]);
 
@@ -33,5 +31,5 @@
     // TODO: inject services as needed.
     app.run([function () {
 
-        }]);
+    }]);
 })();

@@ -3,9 +3,9 @@
 
     var directiveId = 'musicCollectionGraph';
 
-    angular.module('app').directive(directiveId, ['$window', musicCollectionGraph]);
+    angular.module('app').directive(directiveId, [musicCollectionGraph]);
 
-    function musicCollectionGraph($window) {
+    function musicCollectionGraph() {
         var directive = {
             link: link,
             restrict: 'A'
@@ -17,15 +17,15 @@
                 render(newVal);
             }, true);
 
-            if (scope.data != null) render(scope.data);
+            if (scope.data !== null) render(scope.data);
 
             function render(dataToRender) {
-                if (dataToRender != null) {
+                if (dataToRender !== null) {
                     d3.select(element[0])
                         .selectAll("*")
                         .remove();
 
-                    var data = dataToRender
+                    var data = dataToRender;
 
                     var valueLabelWidth = 40; // space reserved for value labels (right)
                     var barHeight = 20; // height of one bar
@@ -37,8 +37,8 @@
                     var maxBarWidth = 420; // width of the bar with the max value
 
                     // accessor functions 
-                    var barLabel = function (d) { return d['year']; };
-                    var barValue = function (d) { return parseFloat(d['count']); };
+                    var barLabel = function (d) { return d.year; };
+                    var barValue = function (d) { return parseFloat(d.count); };
 
                     // scales
                     var yScale = d3.scale.ordinal().domain(d3.range(0, data.length)).rangeBands([0, data.length * barHeight]);
@@ -82,7 +82,7 @@
                       .attr('height', yScale.rangeBand())
                       .attr('width', function (d) { return x(barValue(d)); })
                       .attr('stroke', 'white')
-                      .attr('fill', 'steelblue');
+                      .attr('fill', '#AAA');
                     // bar value labels
                     barsContainer.selectAll("text").data(data).enter().append("text")
                       .attr("x", function (d) { return x(barValue(d)); })

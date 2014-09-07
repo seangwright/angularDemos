@@ -3,12 +3,26 @@ body {
 }
 
 a {
+    color: #2C3E50;
     cursor: pointer;
 }
 
 .row {
     margin-top: 1em;
     margin-bottom: 1em;
+}
+
+.ani-nav .navbar-collapse {
+    background-color: #2C3E50;
+}
+
+.ani-nav .navbar-nav > .active > a, .ani-nav .navbar-nav > .active > a:hover {
+    background-color: #AAA;
+}
+
+.field-container {
+    margin: 5px;
+    float: left;
 }
 
 .releases .release .details div {
@@ -22,6 +36,27 @@ a {
     margin: 0 4px;
     display: inline-block;
 }
+
+.release.ng-move,
+.release.ng-enter,
+.release.ng-leave {
+    -webkit-transition: all linear 0.5s;
+    transition: all linear 0.5s;
+}
+
+    .release.ng-leave.ng-leave-active,
+    .release.ng-move,
+    .release.ng-enter {
+        opacity: 0;
+        max-height: 0;
+    }
+
+        .release.ng-leave,
+        .release.ng-move.ng-move-active,
+        .release.ng-enter.ng-enter-active {
+            opacity: 1;
+            max-height: 40px;
+        }
 
 .music-collection-graph {
     padding: 20px 20px 20px 0;

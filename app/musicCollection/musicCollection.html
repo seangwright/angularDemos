@@ -1,14 +1,15 @@
 ﻿<div data-ng-controller="musicCollectionController as vm">
     <h2>{{vm.title}}</h2>
-    <div>
-        <label>Filter</label>
-        <input data-ng-model="musicCollectionFilter" />
-    </div>
-    <div class="music-collection-graph" data-ng-if="vm.filteredCollection != null">
+    <div class="field-container" data-ng-if="vm.filteredCollection != null">
         <h4>Number of releases / Year</h4>
-        <div data-music-collection-graph
+        <div class="music-collection-graph" data-music-collection-graph
              data="vm.collectionYears"></div>
     </div>
+    <div class="field-container">
+        <label>Search</label>
+        <input data-ng-model="searchText" />
+    </div>
+    <div class="clearfix"></div>
     <table class="releases table table-bordered table-striped table-condensed" data-ng-if="vm.filteredCollection != null">
         <thead>
             <tr>
@@ -19,7 +20,7 @@
             </tr>
         </thead>
         <tbody>
-            <tr class="release" data-ng-repeat="release in vm.filteredCollection">
+            <tr class="release" ng-animate="'animate'" data-ng-repeat="release in vm.filteredCollection">
                 <td>
                     <a data-ng-click="vm.redirectViaJSONLink(release.basic_information.artists[0].resource_url)">{{release.basic_information.artists[0].name}}</a>
                 </td>

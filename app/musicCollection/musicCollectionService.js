@@ -7,6 +7,8 @@
         .service(serviceId, ['$http', musicCollectionService]);
 
     function musicCollectionService($http) {
+        var localEnvironment = false;
+
         var service = {
             getAll: getAll,
             resolveJSONEndpointToHttpUrl: resolveJSONEndpointToHttpUrl
@@ -15,15 +17,35 @@
         return service;
 
         function getAll() {
-            return $http({ method: 'GET', url: 'http://api.discogs.com/users/infovision/collection/folders/0/releases?sort=year&per_page=100' })
+            if (localEnvironment) {
+                return $http({
+                    method: 'GET',
+                    url: 'app/musicCollection/staticCollection.json',
+                    headers: {
+                        'Content-type': 'application/json'
+                    }
+                })
                 .then(
                 function (response) {
-                    return response.data;
+                    return response.data[0];
                 },
                 function (response) {
                     console.log("GetAll failed with a status of " + response.status + " : " + response.statusText);
                 });
-
+            } else {
+                return $http(
+                    {
+                        method: 'GET',
+                        url: 'http://api.discogs.com/users/infovision/collection/folders/0/releases?sort=year&per_page=100'
+                    })
+                    .then(
+                    function (response) {
+                        return response.data;
+                    },
+                    function (response) {
+                        console.log("GetAll failed with a status of " + response.status + " : " + response.statusText);
+                    });
+            }
         }
 
         // Resolves an API endpoint link to its Http counterpart

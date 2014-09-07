@@ -1,0 +1,3389 @@
+﻿[
+    {
+        "pagination": {
+            "per_page": 100,
+            "items": 72,
+            "page": 1,
+            "urls": {
+
+            },
+            "pages": 1
+        },
+        "releases": [
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 4935,
+                            "resource_url": "http://api.discogs.com/labels/4935",
+                            "catno": "WDM 10074-2",
+                            "name": "World Domination Recordings",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "Album"
+                            ],
+                            "name": "CD",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-91319-001.jpg",
+                    "title": "Feeler",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Perfume Tree",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/59291",
+                            "id": 59291
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/91319",
+                    "year": 1998,
+                    "id": 91319
+                },
+                "id": 91319
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 84977,
+                            "resource_url": "http://api.discogs.com/labels/84977",
+                            "catno": "FTK 05",
+                            "name": "Ruined Potential Records",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "Album",
+                                "LP",
+                                "Limited Edition"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-940185-1175249075.jpeg",
+                    "title": "Like Trees We Grow Up To Be Satellites (The Backwards America)",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Lazarus (5)",
+                            "anv": "William Lazarus",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/645051",
+                            "id": 645051
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/940185",
+                    "year": 2006,
+                    "id": 940185
+                },
+                "id": 940185
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 84977,
+                            "resource_url": "http://api.discogs.com/labels/84977",
+                            "catno": "FTK 06",
+                            "name": "Ruined Potential Records",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "Clear W/Brown + Green Haze",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-940195-1224634061.jpeg",
+                    "title": "Songs Of Green Pheasant",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Songs Of Green Pheasant",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/341894",
+                            "id": 341894
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/940195",
+                    "year": 2006,
+                    "id": 940195
+                },
+                "id": 940195
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 102190,
+                            "resource_url": "http://api.discogs.com/labels/102190",
+                            "catno": "TT001",
+                            "name": "Torrentech",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "MP3"
+                            ],
+                            "text": "Released in .rar file",
+                            "name": "File",
+                            "qty": "16"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-1173839-1198226612.jpeg",
+                    "title": "Checkout Line",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Customer (2)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/996015",
+                            "id": 996015
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/1173839",
+                    "year": 2007,
+                    "id": 1173839
+                },
+                "id": 1173839
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 500,
+                            "resource_url": "http://api.discogs.com/labels/500",
+                            "catno": "thrill 205",
+                            "name": "Thrill Jockey",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Repress"
+                            ],
+                            "text": "White",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3517338-1335114073.jpeg",
+                    "title": "Car Alarm",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Sea And Cake, The",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/50982",
+                            "id": 50982
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3517338",
+                    "year": 2008,
+                    "id": 3517338
+                },
+                "id": 3517338
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 102190,
+                            "resource_url": "http://api.discogs.com/labels/102190",
+                            "catno": "TT006",
+                            "name": "Torrentech",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "MP3",
+                                "EP"
+                            ],
+                            "text": "VBR",
+                            "name": "File",
+                            "qty": "7"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-1539306-1226998212.jpeg",
+                    "title": "Chocolate Ants",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Customer (2)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/996015",
+                            "id": 996015
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/1539306",
+                    "year": 2008,
+                    "id": 1539306
+                },
+                "id": 1539306
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 55188,
+                            "resource_url": "http://api.discogs.com/labels/55188",
+                            "catno": "KR351",
+                            "name": "Kanine Records",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-1914707-1252157138.jpeg",
+                    "title": "independent Pleasure Club",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Holy Hail",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/838097",
+                            "id": 838097
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/1914707",
+                    "year": 2008,
+                    "id": 1914707
+                },
+                "id": 1914707
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 173942,
+                            "resource_url": "http://api.discogs.com/labels/173942",
+                            "catno": "none",
+                            "name": "Not On Label (Mitch Murphy's Bandits Self-released)",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "MP3"
+                            ],
+                            "text": "VBR V0",
+                            "name": "File",
+                            "qty": "8"
+                        },
+                        {
+                            "descriptions": [
+                                "FLAC"
+                            ],
+                            "name": "File",
+                            "qty": "8"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-2031465-1259658915.jpeg",
+                    "title": "Mitch Murphy's Bandits",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Mitch Murphy's Bandits",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1644924",
+                            "id": 1644924
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/2031465",
+                    "year": 2009,
+                    "id": 2031465
+                },
+                "id": 2031465
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 99802,
+                            "resource_url": "http://api.discogs.com/labels/99802",
+                            "catno": "INSTLP01",
+                            "name": "Install",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Limited Edition",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-2026561-1259346397.jpeg",
+                    "title": "Phosphene Weather",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Milieu",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/278997",
+                            "id": 278997
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/2026561",
+                    "year": 2009,
+                    "id": 2026561
+                },
+                "id": 2026561
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 79794,
+                            "resource_url": "http://api.discogs.com/labels/79794",
+                            "catno": "ESR023",
+                            "name": "Exit Stencil Recordings",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "name": "Vinyl",
+                            "qty": "1"
+                        },
+                        {
+                            "name": "CD",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-2687870-1296595133.jpeg",
+                    "title": "S/T",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Mystery Of Two",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1559350",
+                            "id": 1559350
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/2687870",
+                    "year": 2009,
+                    "id": 2687870
+                },
+                "id": 2687870
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 93202,
+                            "resource_url": "http://api.discogs.com/labels/93202",
+                            "catno": "DAIS 007",
+                            "name": "Dais Records",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-1767985-1242073254.jpeg",
+                    "title": "Sleeping And Hiding",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Tor Lundvall",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/106949",
+                            "id": 106949
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/1767985",
+                    "year": 2009,
+                    "id": 1767985
+                },
+                "id": 1767985
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 215461,
+                            "resource_url": "http://api.discogs.com/labels/215461",
+                            "catno": "none",
+                            "name": "Not On Label (Customer Self-released)",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "FLAC",
+                                "EP"
+                            ],
+                            "name": "File",
+                            "qty": "8"
+                        },
+                        {
+                            "descriptions": [
+                                "MP3",
+                                "EP"
+                            ],
+                            "text": "VBR V0",
+                            "name": "File",
+                            "qty": "8"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-2518422-1288389930.jpeg",
+                    "title": "Soft Comedy",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Customer (2)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/996015",
+                            "id": 996015
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/2518422",
+                    "year": 2010,
+                    "id": 2518422
+                },
+                "id": 2518422
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 68787,
+                            "resource_url": "http://api.discogs.com/labels/68787",
+                            "catno": "Elektrohasch 139",
+                            "name": "Elektrohasch Schallplatten",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Compilation"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "3"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-2396354-1305720551.jpeg",
+                    "title": "Summer Sessions - Vol. 1-3",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Causa Sui",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/497561",
+                            "id": 497561
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/2396354",
+                    "year": 2010,
+                    "id": 2396354
+                },
+                "id": 2396354
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 2441,
+                            "resource_url": "http://api.discogs.com/labels/2441",
+                            "catno": "SLANG9550055",
+                            "name": "City Slang",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "text": "180 Gram",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-2235245-1369236781-8181.jpeg",
+                    "title": "Swim",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Caribou",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/275841",
+                            "id": 275841
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/2235245",
+                    "year": 2010,
+                    "id": 2235245
+                },
+                "id": 2235245
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 162104,
+                            "resource_url": "http://api.discogs.com/labels/162104",
+                            "catno": "YM003",
+                            "name": "Yesh Music",
+                            "entity_type": "1"
+                        },
+                        {
+                            "id": 313592,
+                            "resource_url": "http://api.discogs.com/labels/313592",
+                            "catno": "PSR002",
+                            "name": "Pirate Ship Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition",
+                                "Repress"
+                            ],
+                            "text": "Translucent Beer & Bronze w/ Trans & Opaque Red",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3668209-1339592249-9413.jpeg",
+                    "title": "A Memory Stream",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "American Dollar, The",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/745711",
+                            "id": 745711
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3668209",
+                    "year": 2011,
+                    "id": 3668209
+                },
+                "id": 3668209
+            },
+            {
+                "instance_id": 1,
+                "rating": 4,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 376253,
+                            "resource_url": "http://api.discogs.com/labels/376253",
+                            "catno": "ATT7002",
+                            "name": "Attacknine",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "7\"",
+                                "33 \u2153 RPM",
+                                "Limited Edition"
+                            ],
+                            "text": "Brown Marbled",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        },
+                        {
+                            "descriptions": [
+                                "7\"",
+                                "33 \u2153 RPM",
+                                "Limited Edition"
+                            ],
+                            "text": "Purple Marbled",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3143342-1317760465.jpeg",
+                    "title": "Children Of The Hill",
+                    "artists": [
+                        {
+                            "join": "/",
+                            "name": "Brian Grainger",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/426224",
+                            "id": 426224
+                        },
+                        {
+                            "join": "",
+                            "name": "Orick",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/670847",
+                            "id": 670847
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3143342",
+                    "year": 2011,
+                    "id": 3143342
+                },
+                "id": 3143342
+            },
+            {
+                "instance_id": 1,
+                "rating": 4,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 23609,
+                            "resource_url": "http://api.discogs.com/labels/23609",
+                            "catno": "TEG-76538-1",
+                            "name": "Traffic Entertainment Group",
+                            "entity_type": ""
+                        },
+                        {
+                            "id": 5724,
+                            "resource_url": "http://api.discogs.com/labels/5724",
+                            "catno": "",
+                            "name": "B-Boy Records",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "Album",
+                                "Reissue",
+                                "Remastered"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3050306-1313391587.jpeg",
+                    "title": "Criminal Minded",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Boogie Down Productions",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/17101",
+                            "id": 17101
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3050306",
+                    "year": 2011,
+                    "id": 3050306
+                },
+                "id": 3050306
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 634,
+                            "resource_url": "http://api.discogs.com/labels/634",
+                            "catno": "CAD 3107",
+                            "name": "4AD",
+                            "entity_type": ""
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        },
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Single Sided",
+                                "Etched"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        },
+                        {
+                            "descriptions": [
+                                "Album"
+                            ],
+                            "name": "All Media",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-2873878-1305065224.jpeg",
+                    "title": "Eye Contact",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Gang Gang Dance",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/252223",
+                            "id": 252223
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/2873878",
+                    "year": 2011,
+                    "id": 2873878
+                },
+                "id": 2873878
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 229372,
+                            "resource_url": "http://api.discogs.com/labels/229372",
+                            "catno": "WR018",
+                            "name": "Wil-Ru Records",
+                            "entity_type": "1"
+                        },
+                        {
+                            "id": 229372,
+                            "resource_url": "http://api.discogs.com/labels/229372",
+                            "catno": "none",
+                            "name": "Wil-Ru Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        },
+                        {
+                            "descriptions": [
+                                "Mini",
+                                "Limited Edition"
+                            ],
+                            "name": "CDr",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3077385-1314640943.jpeg",
+                    "title": "High Hawaiian Fog / Arctic Liner Disintegration",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Coppice Halifax",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/565071",
+                            "id": 565071
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3077385",
+                    "year": 2011,
+                    "id": 3077385
+                },
+                "id": 3077385
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 218929,
+                            "resource_url": "http://api.discogs.com/labels/218929",
+                            "catno": "EMR008",
+                            "name": "El Marko Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "12\""
+                            ],
+                            "text": "Coke Bottle Green",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5628592-1407358706-5154.jpeg",
+                    "title": "Madness In Miniature",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Mr. Gnome",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1120527",
+                            "id": 1120527
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5628592",
+                    "year": 2011,
+                    "id": 5628592
+                },
+                "id": 5628592
+            },
+            {
+                "instance_id": 1,
+                "rating": 4,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 376253,
+                            "resource_url": "http://api.discogs.com/labels/376253",
+                            "catno": "ATTLP005",
+                            "name": "Attacknine",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "Orange",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3183573-1319488613.jpeg",
+                    "title": "Terror Train",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Terror Train",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2468229",
+                            "id": 2468229
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3183573",
+                    "year": 2011,
+                    "id": 3183573
+                },
+                "id": 3183573
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 405568,
+                            "resource_url": "http://api.discogs.com/labels/405568",
+                            "catno": "WAO1-1",
+                            "name": "Wao Wao",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3662984-1339781122-1759.jpeg",
+                    "title": "Twister",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Country Mice",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2796285",
+                            "id": 2796285
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3662984",
+                    "year": 2011,
+                    "id": 3662984
+                },
+                "id": 3662984
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 121225,
+                            "resource_url": "http://api.discogs.com/labels/121225",
+                            "catno": "HAR-063",
+                            "name": "Hardly Art",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4006618-1352116216-5783.jpeg",
+                    "title": "A Different Arrangement",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Black Marble",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2433043",
+                            "id": 2433043
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4006618",
+                    "year": 2012,
+                    "id": 4006618
+                },
+                "id": 4006618
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 94734,
+                            "resource_url": "http://api.discogs.com/labels/94734",
+                            "catno": "LSE 023",
+                            "name": "La Soci\u00e9t\u00e9 Exp\u00e9ditionnaire",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "12\""
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3903019-1348670978-3154.jpeg",
+                    "title": "Arc In Round",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Arc In Round",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1651741",
+                            "id": 1651741
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3903019",
+                    "year": 2012,
+                    "id": 3903019
+                },
+                "id": 3903019
+            },
+            {
+                "instance_id": 1,
+                "rating": 4,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 152333,
+                            "resource_url": "http://api.discogs.com/labels/152333",
+                            "catno": "RACU06",
+                            "name": "Rad Cult",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP"
+                            ],
+                            "text": "White with orange splatter",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3997996-1351824427-3260.jpeg",
+                    "title": "Cobra Juicy",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Black Moth Super Rainbow",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/165373",
+                            "id": 165373
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3997996",
+                    "year": 2012,
+                    "id": 3997996
+                },
+                "id": 3997996
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 134360,
+                            "resource_url": "http://api.discogs.com/labels/134360",
+                            "catno": "BRR017",
+                            "name": "Bloodrock Records",
+                            "entity_type": "1"
+                        },
+                        {
+                            "id": 228440,
+                            "resource_url": "http://api.discogs.com/labels/228440",
+                            "catno": "BRR017",
+                            "name": "We Were Never Being Boring",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3752065-1342946500-1143.jpeg",
+                    "title": "Cold",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Be Forest",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2251320",
+                            "id": 2251320
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3752065",
+                    "year": 2012,
+                    "id": 3752065
+                },
+                "id": 3752065
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 109,
+                            "resource_url": "http://api.discogs.com/labels/109",
+                            "catno": "ZEN179",
+                            "name": "Ninja Tune",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "180g",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3503004-1332995091.jpeg",
+                    "title": "Eighty One",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Yppah",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/459821",
+                            "id": 459821
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3503004",
+                    "year": 2012,
+                    "id": 3503004
+                },
+                "id": 3503004
+            },
+            {
+                "instance_id": 3,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 4857,
+                            "resource_url": "http://api.discogs.com/labels/4857",
+                            "catno": "VEL-1206-1",
+                            "name": "Velour Recordings",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4169238-1357541798-6129.jpeg",
+                    "title": "Glow",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Kaki King",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/609779",
+                            "id": 609779
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4169238",
+                    "year": 2012,
+                    "id": 4169238
+                },
+                "id": 4169238
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 120155,
+                            "resource_url": "http://api.discogs.com/labels/120155",
+                            "catno": "GN11",
+                            "name": "Geographic North",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3662342-1339349367-4649.png",
+                    "title": "Landing",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Landing",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/109924",
+                            "id": 109924
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3662342",
+                    "year": 2012,
+                    "id": 3662342
+                },
+                "id": 3662342
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-162",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "Blue",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3818292-1346521648-9744.jpeg",
+                    "title": "Nocturne",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Wild Nothing",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1771611",
+                            "id": 1771611
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3818292",
+                    "year": 2012,
+                    "id": 3818292
+                },
+                "id": 3818292
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-158",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3688134-1340580589-5240.jpeg",
+                    "title": "Oshin",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "DIIV",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2848703",
+                            "id": 2848703
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3688134",
+                    "year": 2012,
+                    "id": 3688134
+                },
+                "id": 3688134
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 44135,
+                            "resource_url": "http://api.discogs.com/labels/44135",
+                            "catno": "B0017128-01",
+                            "name": "Brushfire Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3868833-1347491079-9126.jpeg",
+                    "title": "Palindrome Hunches",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Neil Halstead",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/51139",
+                            "id": 51139
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3868833",
+                    "year": 2012,
+                    "id": 3868833
+                },
+                "id": 3868833
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-140",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "12\"",
+                                "EP",
+                                "45 RPM"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3573967-1335822941.jpeg",
+                    "title": "Rock And Roll Night Club",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Mac DeMarco",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2568722",
+                            "id": 2568722
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3573967",
+                    "year": 2012,
+                    "id": 3573967
+                },
+                "id": 3573967
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 500,
+                            "resource_url": "http://api.discogs.com/labels/500",
+                            "catno": "thrill 310",
+                            "name": "Thrill Jockey",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "text": "Green",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3872514-1347625552-1518.jpeg",
+                    "title": "Runner",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Sea And Cake, The",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/50982",
+                            "id": 50982
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3872514",
+                    "year": 2012,
+                    "id": 3872514
+                },
+                "id": 3872514
+            },
+            {
+                "instance_id": 1,
+                "rating": 4,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-157",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "7\"",
+                                "Limited Edition",
+                                "45 RPM"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3825935-1351558094-5262.jpeg",
+                    "title": "Shadow",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Wild Nothing",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1771611",
+                            "id": 1771611
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3825935",
+                    "year": 2012,
+                    "id": 3825935
+                },
+                "id": 3825935
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 32118,
+                            "resource_url": "http://api.discogs.com/labels/32118",
+                            "catno": "WV99",
+                            "name": "Western Vinyl",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "text": "White",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3859460-1347178208-6242.gif",
+                    "title": "Symbolyst",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Lymbyc Systym",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/737381",
+                            "id": 737381
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3859460",
+                    "year": 2012,
+                    "id": 3859460
+                },
+                "id": 3859460
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 93202,
+                            "resource_url": "http://api.discogs.com/labels/93202",
+                            "catno": "DAIS 031",
+                            "name": "Dais Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3678996-1392998272-5279.jpeg",
+                    "title": "The Shipyard",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Tor Lundvall",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/106949",
+                            "id": 106949
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3678996",
+                    "year": 2012,
+                    "id": 3678996
+                },
+                "id": 3678996
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 634,
+                            "resource_url": "http://api.discogs.com/labels/634",
+                            "catno": "CAD3208",
+                            "name": "4AD",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-3419668-1335766954.jpeg",
+                    "title": "Visions",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Grimes (4)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1993487",
+                            "id": 1993487
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/3419668",
+                    "year": 2012,
+                    "id": 3419668
+                },
+                "id": 3419668
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 183185,
+                            "resource_url": "http://api.discogs.com/labels/183185",
+                            "catno": "TAN013",
+                            "name": "These Are Not Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "12\"",
+                                "EP",
+                                "Limited Edition",
+                                "33 \u2153 RPM"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4156979-1357188055-3558.png",
+                    "title": "Wave Lair",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Landing",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/109924",
+                            "id": 109924
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4156979",
+                    "year": 2012,
+                    "id": 4156979
+                },
+                "id": 4156979
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 842,
+                            "resource_url": "http://api.discogs.com/labels/842",
+                            "catno": "CAK77",
+                            "name": "Carpark Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "text": "180g",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4220709-1358911389-6645.jpeg",
+                    "title": "Anything In Return",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Toro Y Moi",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1362799",
+                            "id": 1362799
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4220709",
+                    "year": 2013,
+                    "id": 4220709
+                },
+                "id": 4220709
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 35538,
+                            "resource_url": "http://api.discogs.com/labels/35538",
+                            "catno": "SC256",
+                            "name": "Secretly Canadian",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4721146-1373787278-2687.jpeg",
+                    "title": "Bigfoot",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Cayucas",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/3204392",
+                            "id": 3204392
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4721146",
+                    "year": 2013,
+                    "id": 4721146
+                },
+                "id": 4721146
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 449530,
+                            "resource_url": "http://api.discogs.com/labels/449530",
+                            "catno": "NS0007V",
+                            "name": "Neon Sigh",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "7\"",
+                                "Single",
+                                "Limited Edition",
+                                "Numbered",
+                                "45 RPM"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4438858-1364909286-1207.jpeg",
+                    "title": "Birth",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Dead Leaf Echo",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1134304",
+                            "id": 1134304
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4438858",
+                    "year": 2013,
+                    "id": 4438858
+                },
+                "id": 4438858
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 55816,
+                            "resource_url": "http://api.discogs.com/labels/55816",
+                            "catno": "SSS050",
+                            "name": "Sun Sea Sky Productions",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "Clear",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4521853-1367254610-8404.jpeg",
+                    "title": "Chase The Ghost",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Signal Hill (2)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2086270",
+                            "id": 2086270
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4521853",
+                    "year": 2013,
+                    "id": 4521853
+                },
+                "id": 4521853
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 3020,
+                            "resource_url": "http://api.discogs.com/labels/3020",
+                            "catno": "GI-145",
+                            "name": "Ghostly International",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Repress"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5229977-1388191468-8600.jpeg",
+                    "title": "Dive",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Tycho (3)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/71827",
+                            "id": 71827
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5229977",
+                    "year": 2013,
+                    "id": 5229977
+                },
+                "id": 5229977
+            },
+            {
+                "instance_id": 1,
+                "rating": 4,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-167",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        },
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-168",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        },
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-169",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "Album",
+                                "LP",
+                                "Reissue",
+                                "Remastered"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        },
+                        {
+                            "descriptions": [
+                                "Album",
+                                "LP",
+                                "Reissue",
+                                "Remastered"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        },
+                        {
+                            "descriptions": [
+                                "Mini-Album",
+                                "LP",
+                                "Reissue",
+                                "Remastered"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        },
+                        {
+                            "descriptions": [
+                                "Compilation",
+                                "Limited Edition"
+                            ],
+                            "name": "Box Set",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5171274-1386443716-2374.jpeg",
+                    "title": "Echelons | December | In The Marshes",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "For Against",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/98174",
+                            "id": 98174
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5171274",
+                    "year": 2013,
+                    "id": 5171274
+                },
+                "id": 5171274
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-174",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "EP",
+                                "12\"",
+                                "45 RPM"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4564385-1368567957-7108.jpeg",
+                    "title": "Empty Estate",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Wild Nothing",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1771611",
+                            "id": 1771611
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4564385",
+                    "year": 2013,
+                    "id": 4564385
+                },
+                "id": 4564385
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 243318,
+                            "resource_url": "http://api.discogs.com/labels/243318",
+                            "catno": "EPR013LP",
+                            "name": "El Paraiso Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4767193-1374861904-4122.jpeg",
+                    "title": "Euporie Tide",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Causa Sui",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/497561",
+                            "id": 497561
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4767193",
+                    "year": 2013,
+                    "id": 4767193
+                },
+                "id": 4767193
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 175501,
+                            "resource_url": "http://api.discogs.com/labels/175501",
+                            "catno": "LEFSE059",
+                            "name": "Lefse Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "text": "Light Blue",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4964281-1380761717-7828.jpeg",
+                    "title": "Glacier",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Teen Daze",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2019796",
+                            "id": 2019796
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4964281",
+                    "year": 2013,
+                    "id": 4964281
+                },
+                "id": 4964281
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 33995,
+                            "resource_url": "http://api.discogs.com/labels/33995",
+                            "catno": "FP1383-1",
+                            "name": "Fat Possum Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4935776-1379927798-1238.jpeg",
+                    "title": "Herein Wild",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Frankie Rose (2)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1211429",
+                            "id": 1211429
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4935776",
+                    "year": 2013,
+                    "id": 4935776
+                },
+                "id": 4935776
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 606773,
+                            "resource_url": "http://api.discogs.com/labels/606773",
+                            "catno": "TS-001",
+                            "name": "Tracer Sounds",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "7\"",
+                                "45 RPM",
+                                "Limited Edition",
+                                "Numbered"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5035729-1382737906-4727.jpeg",
+                    "title": "If Life Was Like A Movie",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "LODRO",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1116255",
+                            "id": 1116255
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5035729",
+                    "year": 2013,
+                    "id": 5035729
+                },
+                "id": 5035729
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-187",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "Clear with Black Smoke",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4899917-1383448745-7497.jpeg",
+                    "title": "Imperium",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Blouse",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1943200",
+                            "id": 1943200
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4899917",
+                    "year": 2013,
+                    "id": 4899917
+                },
+                "id": 4899917
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 521549,
+                            "resource_url": "http://api.discogs.com/labels/521549",
+                            "catno": "frond001",
+                            "name": "Frond",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "White",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4398775-1363834299-8892.jpeg",
+                    "title": "Intervalo",
+                    "artists": [
+                        {
+                            "join": "Featuring",
+                            "name": "loscil",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/59946",
+                            "id": 59946
+                        },
+                        {
+                            "join": "",
+                            "name": "Kelly Wyse",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1036337",
+                            "id": 1036337
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4398775",
+                    "year": 2013,
+                    "id": 4398775
+                },
+                "id": 4398775
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 3020,
+                            "resource_url": "http://api.discogs.com/labels/3020",
+                            "catno": "GI-184",
+                            "name": "Ghostly International",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4779554-1375271751-1357.jpeg",
+                    "title": "No Better Time Than Now",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Shigeto",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1295004",
+                            "id": 1295004
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4779554",
+                    "year": 2013,
+                    "id": 4779554
+                },
+                "id": 4779554
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 222096,
+                            "resource_url": "http://api.discogs.com/labels/222096",
+                            "catno": "CSN035",
+                            "name": "Cascine",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5177241-1386669434-3563.jpeg",
+                    "title": "Our Nation",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Shine 2009",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1947372",
+                            "id": 1947372
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5177241",
+                    "year": 2013,
+                    "id": 5177241
+                },
+                "id": 5177241
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 3020,
+                            "resource_url": "http://api.discogs.com/labels/3020",
+                            "catno": "GI-113X LP",
+                            "name": "Ghostly International",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5077691-1383876615-8241.jpeg",
+                    "title": "Past Is Prologue",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Tycho (3)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/71827",
+                            "id": 71827
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5077691",
+                    "year": 2013,
+                    "id": 5077691
+                },
+                "id": 5077691
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 26465,
+                            "resource_url": "http://api.discogs.com/labels/26465",
+                            "catno": "rewiglp88",
+                            "name": "Domino",
+                            "entity_type": "1"
+                        },
+                        {
+                            "id": 26465,
+                            "resource_url": "http://api.discogs.com/labels/26465",
+                            "catno": "REWIGCD88-2",
+                            "name": "Domino",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "text": "180gsm",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        },
+                        {
+                            "name": "CD",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4554540-1368349663-2527.jpeg",
+                    "title": "Rounds",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Four Tet",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/3543",
+                            "id": 3543
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4554540",
+                    "year": 2013,
+                    "id": 4554540
+                },
+                "id": 4554540
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 252204,
+                            "resource_url": "http://api.discogs.com/labels/252204",
+                            "catno": "BG049",
+                            "name": "Bleeding Gold",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "Grey",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4688700-1372281475-9534.jpeg",
+                    "title": "Say It",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Just Handshakes (We\u2019re British)",
+                            "anv": "Just Handshakes",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1800902",
+                            "id": 1800902
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4688700",
+                    "year": 2013,
+                    "id": 4688700
+                },
+                "id": 4688700
+            },
+            {
+                "instance_id": 1,
+                "rating": 4,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 313592,
+                            "resource_url": "http://api.discogs.com/labels/313592",
+                            "catno": "PSR006",
+                            "name": "Pirate Ship Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP"
+                            ],
+                            "text": "Ltd, Chocolate Vanilla Custard Blend",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5138112-1385517142-2935.jpeg",
+                    "title": "The Technicolour Sleep",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "American Dollar, The",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/745711",
+                            "id": 745711
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5138112",
+                    "year": 2013,
+                    "id": 5138112
+                },
+                "id": 5138112
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 151896,
+                            "resource_url": "http://api.discogs.com/labels/151896",
+                            "catno": "FOF126",
+                            "name": "Friends Of Friends",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4671289-1380055498-3400.jpeg",
+                    "title": "The Water's Way",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Kyson",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1214646",
+                            "id": 1214646
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4671289",
+                    "year": 2013,
+                    "id": 4671289
+                },
+                "id": 4671289
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 449530,
+                            "resource_url": "http://api.discogs.com/labels/449530",
+                            "catno": "NS008",
+                            "name": "Neon Sigh",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "Album"
+                            ],
+                            "name": "CD",
+                            "qty": "1"
+                        },
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "180g Opaque Haze vinyl, 100 copies",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        },
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "180g Black vinyl, 150 copies",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4583336-1370233812-1842.jpeg",
+                    "title": "Thought & Language",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Dead Leaf Echo",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1134304",
+                            "id": 1134304
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4583336",
+                    "year": 2013,
+                    "id": 4583336
+                },
+                "id": 4583336
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 23528,
+                            "resource_url": "http://api.discogs.com/labels/23528",
+                            "catno": "WARPLP257",
+                            "name": "Warp Records",
+                            "entity_type": "1"
+                        },
+                        {
+                            "id": 655,
+                            "resource_url": "http://api.discogs.com/labels/655",
+                            "catno": "WARPLP257",
+                            "name": "Music70",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-4548231-1370533292-4107.jpeg",
+                    "title": "Tomorrow's Harvest",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Boards Of Canada",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/307",
+                            "id": 307
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/4548231",
+                    "year": 2013,
+                    "id": 4548231
+                },
+                "id": 4548231
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 229711,
+                            "resource_url": "http://api.discogs.com/labels/229711",
+                            "catno": "Kutter 022",
+                            "name": "Kapit\u00e4n Platte",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition",
+                                "Numbered"
+                            ],
+                            "text": "Clear / Black Marbled",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5554898-1396422839-7863.jpeg",
+                    "title": "A Shine Below The Mound",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Sonson (2)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/3147517",
+                            "id": 3147517
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5554898",
+                    "year": 2014,
+                    "id": 5554898
+                },
+                "id": 5554898
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 55188,
+                            "resource_url": "http://api.discogs.com/labels/55188",
+                            "catno": "KR115",
+                            "name": "Kanine Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP"
+                            ],
+                            "text": "Translucent Blue",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5808983-1403267332-3333.jpeg",
+                    "title": "Careers",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Beverly (10)",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/3790592",
+                            "id": 3790592
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5808983",
+                    "year": 2014,
+                    "id": 5808983
+                },
+                "id": 5808983
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 2005,
+                            "resource_url": "http://api.discogs.com/labels/2005",
+                            "catno": "WEBB415LP",
+                            "name": "Wichita",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP"
+                            ],
+                            "text": "Gatefold",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        },
+                        {
+                            "descriptions": [
+                                "Album"
+                            ],
+                            "name": "CD",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5304755-1390082471-2767.jpeg",
+                    "title": "Cheatahs",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Cheatahs",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/1798524",
+                            "id": 1798524
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5304755",
+                    "year": 2014,
+                    "id": 5304755
+                },
+                "id": 5304755
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 228440,
+                            "resource_url": "http://api.discogs.com/labels/228440",
+                            "catno": "WWNBB#51",
+                            "name": "We Were Never Being Boring",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Limited Edition",
+                                "Repress"
+                            ],
+                            "text": "White",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5377858-1392341195-7748.jpeg",
+                    "title": "Earthbeat",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Be Forest",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2251320",
+                            "id": 2251320
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5377858",
+                    "year": 2014,
+                    "id": 5377858
+                },
+                "id": 5377858
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 39910,
+                            "resource_url": "http://api.discogs.com/labels/39910",
+                            "catno": "LIFE105",
+                            "name": "Shelflife Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "text": "Electric Blue",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5425220-1393038966-9839.jpeg",
+                    "title": "Go Guitars",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "She, Sir",
+                            "anv": "She Sir",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/684764",
+                            "id": 684764
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5425220",
+                    "year": 2014,
+                    "id": 5425220
+                },
+                "id": 5425220
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 121225,
+                            "resource_url": "http://api.discogs.com/labels/121225",
+                            "catno": "HAR-082",
+                            "name": "Hardly Art",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5698323-1400244623-2425.jpeg",
+                    "title": "Hour Of The Dawn",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "La Sera",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2016515",
+                            "id": 2016515
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5698323",
+                    "year": 2014,
+                    "id": 5698323
+                },
+                "id": 5698323
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 92498,
+                            "resource_url": "http://api.discogs.com/labels/92498",
+                            "catno": "RBR036",
+                            "name": "Roadburn Records",
+                            "entity_type": "1"
+                        },
+                        {
+                            "id": 427345,
+                            "resource_url": "http://api.discogs.com/labels/427345",
+                            "catno": "OBR10",
+                            "name": "Outer Battery Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Limited Edition"
+                            ],
+                            "text": "yellow",
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5784591-1402578508-9181.jpeg",
+                    "title": "In A Dutch Haze",
+                    "artists": [
+                        {
+                            "join": "Meets",
+                            "name": "Earthless",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/929032",
+                            "id": 929032
+                        },
+                        {
+                            "join": "",
+                            "name": "Heavy Blanket",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2738972",
+                            "id": 2738972
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5784591",
+                    "year": 2014,
+                    "id": 5784591
+                },
+                "id": 5784591
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 243318,
+                            "resource_url": "http://api.discogs.com/labels/243318",
+                            "catno": "EPR017LP",
+                            "name": "El Paraiso Records",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album",
+                                "Limited Edition"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "2"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5492852-1394800698-3298.jpeg",
+                    "title": "Live At Freak Valley",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Causa Sui",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/497561",
+                            "id": 497561
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5492852",
+                    "year": 2014,
+                    "id": 5492852
+                },
+                "id": 5492852
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 3020,
+                            "resource_url": "http://api.discogs.com/labels/3020",
+                            "catno": "GI220",
+                            "name": "Ghostly International",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP"
+                            ],
+                            "text": "Clear",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-6050913-1409798242-8391.jpeg",
+                    "title": "OPENING",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Christopher Willits",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/56536",
+                            "id": 56536
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/6050913",
+                    "year": 2014,
+                    "id": 6050913
+                },
+                "id": 6050913
+            },
+            {
+                "instance_id": 1,
+                "rating": 0,
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 32976,
+                            "resource_url": "http://api.discogs.com/labels/32976",
+                            "catno": "DWT70388",
+                            "name": "Downtown",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP"
+                            ],
+                            "text": "Translucent Blue",
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5828539-1403825943-9023.jpeg",
+                    "title": "Relief",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Vacationer",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2428464",
+                            "id": 2428464
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5828539",
+                    "year": 2014,
+                    "id": 5828539
+                },
+                "id": 5828539
+            },
+            {
+                "instance_id": 1,
+                "rating": 5,
+                "notes": [
+                    {
+                        "field_id": 4,
+                        "value": "Yes"
+                    }
+                ],
+                "basic_information": {
+                    "labels": [
+                        {
+                            "id": 134201,
+                            "resource_url": "http://api.discogs.com/labels/134201",
+                            "catno": "CT-193",
+                            "name": "Captured Tracks",
+                            "entity_type": "1"
+                        }
+                    ],
+                    "formats": [
+                        {
+                            "descriptions": [
+                                "LP",
+                                "Album"
+                            ],
+                            "name": "Vinyl",
+                            "qty": "1"
+                        }
+                    ],
+                    "thumb": "http://api.discogs.com/images/R-90-5552990-1396406658-6905.jpeg",
+                    "title": "Salad Days",
+                    "artists": [
+                        {
+                            "join": "",
+                            "name": "Mac DeMarco",
+                            "anv": "",
+                            "tracks": "",
+                            "role": "",
+                            "resource_url": "http://api.discogs.com/artists/2568722",
+                            "id": 2568722
+                        }
+                    ],
+                    "resource_url": "http://api.discogs.com/releases/5552990",
+                    "year": 2014,
+                    "id": 5552990
+                },
+                "id": 5552990
+            }
+        ]
+    }
+]
