@@ -13,6 +13,10 @@
         vm.collection = null;
         vm.filteredCollection = null;
         vm.collectionYears = null;
+        vm.searchText = null;
+        vm.searchOptions = getSearchOptions();
+        vm.searchBy = vm.searchOptions[0];
+
         vm.activate = activate;
         vm.redirectViaJSONLink = redirectViaJSONLink;
 
@@ -28,7 +32,7 @@
                 vm.filteredCollection = vm.collection;
             });
 
-            $scope.$watchCollection('vm.collection | textFilter:searchText', function (newVal) {
+            $scope.$watchCollection('vm.collection | textFilter:vm.searchText:vm.searchBy', function (newVal) {
                 vm.filteredCollection = newVal;
                 vm.collectionYears = getYearsFromCollection(vm.filteredCollection);
             }, true);
@@ -54,25 +58,21 @@
 
             return years;
         }
+
+        function getSearchOptions() {
+            return [{
+                label: 'Name',
+                value: 'name'
+            }, {
+                label: 'Title',
+                value: 'title'
+            }, {
+                label: 'Year',
+                value: 'year'
+            }, {
+                label: 'Format',
+                value: 'format'
+            }];
+        }
     }
-
-    /*
-     * Filter for comparing name of artist in a collection of releases to given text value
-     */
-    angular.module('app')
-        .filter('textFilter', function () {
-            return function (items, text) {
-                if (!text || text === '') return items;
-
-                var filteredItems = [];
-                text = text.toLowerCase();
-
-                angular.forEach(items, function (item) {
-                    var name = item.basic_information.artists[0].name.toLowerCase();
-                    if (name.indexOf(text) > -1) filteredItems.push(item);
-                });
-
-                return filteredItems;
-            };
-        });
 })();

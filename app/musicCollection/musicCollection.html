@@ -2,12 +2,12 @@
     <h2>{{vm.title}}</h2>
     <div class="field-container" data-ng-if="vm.filteredCollection != null">
         <h4>Number of releases / Year</h4>
-        <div class="music-collection-graph" data-music-collection-graph
-             data="vm.collectionYears"></div>
+        <div class="music-collection-graph" data-music-collection-graph data="vm.collectionYears"></div>
     </div>
     <div class="field-container">
         <label>Search</label>
-        <input data-ng-model="searchText" />
+        <select ng-model="vm.searchBy" ng-options="option as option.label for option in vm.searchOptions"></select>
+        <input data-ng-model="vm.searchText" />
     </div>
     <div class="clearfix"></div>
     <table class="releases table table-bordered table-striped table-condensed" data-ng-if="vm.filteredCollection != null">

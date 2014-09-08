@@ -19,13 +19,13 @@
 
             if (scope.data !== null) render(scope.data);
 
-            function render(dataToRender) {
-                if (dataToRender !== null) {
+            function render(data) {
+                if (data != null) {
                     d3.select(element[0])
                         .selectAll("*")
                         .remove();
 
-                    var data = dataToRender;
+                    if (!data.hasOwnProperty(length)) data.length = 0;
 
                     var valueLabelWidth = 40; // space reserved for value labels (right)
                     var barHeight = 20; // height of one bar
@@ -45,10 +45,12 @@
                     var y = function (d, i) { return yScale(i); };
                     var yText = function (d, i) { return y(d, i) + yScale.rangeBand() / 2; };
                     var x = d3.scale.linear().domain([0, d3.max(data, barValue)]).range([0, maxBarWidth]);
+
                     // svg container element
                     var chart = d3.select(element[0]).append("svg")
                       .attr('width', maxBarWidth + barLabelWidth + valueLabelWidth + graphOffsetLeft)
                       .attr('height', gridLabelHeight + gridChartOffset + data.length * barHeight);
+
                     // grid line labels
                     var gridContainer = chart.append('g')
                       .attr('transform', 'translate(' + graphOffsetLeft + ',' + gridLabelHeight + ')');
@@ -57,6 +59,7 @@
                       .attr("dy", -3)
                       .attr("text-anchor", "middle")
                       .text(String);
+
                     // vertical grid lines
                     gridContainer.selectAll("line").data(x.ticks(10)).enter().append("line")
                       .attr("x1", x)
@@ -64,6 +67,7 @@
                       .attr("y1", 0)
                       .attr("y2", yScale.rangeExtent()[1] + gridChartOffset)
                       .style("stroke", "#ccc");
+
                     // bar labels
                     var labelsContainer = chart.append('g')
                       .attr('transform', 'translate(' + (graphOffsetLeft - barLabelPadding) + ',' + (gridLabelHeight + gridChartOffset) + ')');
@@ -74,6 +78,7 @@
                       .attr("dy", ".35em") // vertical-align: middle
                       .attr('text-anchor', 'end')
                       .text(barLabel);
+
                     // bars
                     var barsContainer = chart.append('g')
                       .attr('transform', 'translate(' + graphOffsetLeft + ',' + (gridLabelHeight + gridChartOffset) + ')');
@@ -83,6 +88,7 @@
                       .attr('width', function (d) { return x(barValue(d)); })
                       .attr('stroke', 'white')
                       .attr('fill', '#AAA');
+
                     // bar value labels
                     barsContainer.selectAll("text").data(data).enter().append("text")
                       .attr("x", function (d) { return x(barValue(d)); })
@@ -93,6 +99,7 @@
                       .attr("fill", "black")
                       .attr("stroke", "none")
                       .text(function (d) { return d3.round(barValue(d), 2); });
+
                     // start line
                     barsContainer.append("line")
                       .attr("y1", -gridChartOffset)
