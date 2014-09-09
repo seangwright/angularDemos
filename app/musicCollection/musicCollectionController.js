@@ -3,7 +3,7 @@
 
     var controllerId = 'musicCollectionController';
 
-    angular.module('app')
+    angular.module('musicCollection')
         .controller(controllerId, ['musicCollectionService', '$window', '$scope', musicCollectionController]);
 
     function musicCollectionController(musicCollectionService, $window, $scope) {
