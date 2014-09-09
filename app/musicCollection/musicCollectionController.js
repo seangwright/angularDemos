@@ -24,6 +24,10 @@
 
         function activate() {
             loadCollection();
+
+            $scope.$watch("vm.searchBy", function () {
+                vm.searchText = "";
+            });
         }
 
         function loadCollection() {
