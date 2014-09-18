@@ -1,11 +1,12 @@
 ﻿(function () {
     'use strict';
 
-    var directiveId = 'musicCollectionGraph';
+    var directivesModule = angular.module('app.mc.directives', []);
 
-    angular.module('app').directive(directiveId, [musicCollectionGraph]);
+    directivesModule.directive('collectionGraph', collectionGraph);
+    collectionGraph.$inject = [];
 
-    function musicCollectionGraph() {
+    function collectionGraph() {
         var directive = {
             link: link,
             restrict: 'A'
@@ -110,4 +111,4 @@
             }
         }
     }
-})();
+}());

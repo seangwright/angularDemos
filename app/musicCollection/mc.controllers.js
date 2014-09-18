@@ -1,21 +1,26 @@
 ﻿(function () {
     'use strict';
 
-    var controllerId = 'musicCollectionController';
+    var controllersModule = angular.module('app.mc.controllers',
+        ['multi-select',
+         'app.mc.directives',
+         'app.mc.services',
+         'app.mc.filters']);
 
-    angular.module('musicCollection')
-        .controller(controllerId, ['musicCollectionService', '$window', '$scope', musicCollectionController]);
+    controllersModule.controller('mcController', mcController);
+    mcController.$inject = ['$window', '$scope', 'mcDataService'];
 
-    function musicCollectionController(musicCollectionService, $window, $scope) {
+    function mcController($window, $scope, mcDataService) {
         var vm = this;
+
         vm.title = 'Music Collection';
-        vm.getCollection = loadCollection;
         vm.collection = null;
         vm.filteredCollection = null;
         vm.collectionYears = null;
         vm.searchText = null;
         vm.searchOptions = getSearchOptions();
         vm.searchBy = vm.searchOptions[0];
+        vm.filterOptions = vm
 
         vm.activate = activate;
         vm.redirectViaJSONLink = redirectViaJSONLink;
@@ -28,13 +33,6 @@
             $scope.$watch("vm.searchBy", function () {
                 vm.searchText = "";
             });
-        }
-
-        function loadCollection() {
-            musicCollectionService.getAll().then(function (data) {
-                vm.collection = data.releases;
-                vm.filteredCollection = vm.collection;
-            });
 
             $scope.$watchCollection('vm.collection | textFilter:vm.searchText:vm.searchBy', function (newVal) {
                 vm.filteredCollection = newVal;
@@ -42,8 +40,15 @@
             }, true);
         }
 
+        function loadCollection() {
+            mcDataService.getAll().then(function (data) {
+                vm.collection = data.releases;
+                vm.filteredCollection = vm.collection;
+            });
+        }
+
         function redirectViaJSONLink(url) {
-            return musicCollectionService.resolveJSONEndpointToHttpUrl(url).then(function (uri) {
+            return mcDataService.resolveJSONEndpointToHttpUrl(url).then(function (uri) {
                 $window.location.href = uri;
             });
         }
@@ -79,4 +84,4 @@
             }];
         }
     }
-})();
+}());

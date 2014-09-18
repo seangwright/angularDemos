@@ -3,12 +3,12 @@
 
     var app = angular.module('app', [
         // Angular modules
-        'ngAnimate',        // animations
-        'ngRoute'           // routing
+        'ngAnimate',
+        'ngRoute',
         // Custom modules
+        'app.mc'
 
         // 3rd Party Modules
-
     ]);
 
     app.config(['$routeProvider', function ($routeProvider) {
@@ -16,13 +16,23 @@
         $routeProvider
             .when('/',
                 {
-                    templateUrl: 'app/musicCollection/musicCollection.html',
-                    title: 'musicCollection'
+                    templateUrl: 'app/musicCollection/mc.controllers.main.html',
+                    title: 'musicCollection',
+                    controller: 'mcController',
+                    controllerAs: 'vm'
                 })
             .when('/musicCollection',
-                { templateUrl: 'app/musicCollection/musicCollection.html', title: 'musicCollection' })
+                {
+                    templateUrl: 'app/musicCollection/mc.controllers.main.html',
+                    title: 'musicCollection',
+                    controller: 'mcController',
+                    controllerAs: 'vm'
+                })
             .when('/submissionForm',
-                { templateUrl: 'app/submissionForm/submissionForm.html', title: 'submissionForm' })
+                {
+                    templateUrl: 'app/musicCollection/mc.controllers.main.html',
+                    title: 'submissionForm'
+                })
             .otherwise({ redirectTo: '/' });
     }]);
 
@@ -31,4 +41,4 @@
     app.run([function () {
 
     }]);
-})();
+}());

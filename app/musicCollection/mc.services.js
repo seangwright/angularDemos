@@ -1,13 +1,14 @@
 ﻿(function () {
     'use strict';
 
-    var serviceId = 'musicCollectionService';
+    var serviceModule = angular.module('app.mc.services', []);
 
-    angular.module('app')
-        .service(serviceId, ['$http', musicCollectionService]);
+    serviceModule.service('mcDataService', mcDataService);
+    mcDataService.$inject = ['$http'];
 
-    function musicCollectionService($http) {
-        var localEnvironment = false;
+    function mcDataService($http) {
+        // Toggle to turn on/off local/remote fetching of data
+        var localEnvironment = true;
 
         var service = {
             getAll: getAll,
@@ -59,4 +60,4 @@
                 });
         }
     }
-})();
+}());
