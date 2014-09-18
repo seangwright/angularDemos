@@ -1,7 +1,6 @@
 (function () {
     'use strict';
 
-    // TODO: Inject modules as needed.
     var app = angular.module('app', [
         // Angular modules
         'ngAnimate',        // animations
